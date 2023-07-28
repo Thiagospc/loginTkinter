@@ -1,6 +1,3 @@
-user = "adm@gmail.com"
-password = "adm"
-
 import mysql.connector as mc
 
 logins = []
